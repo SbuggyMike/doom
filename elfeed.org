@@ -1,0 +1,17 @@
+#+title: Elfeed
+* Feeds :elfeed:
+** Computer :comp:
+*** [[https://archlinux.org/feeds/news][Arch Linux]]
+*** [[https://www.reddit.com/r/linux.rss][Linux Reddit]]
+*** [[https://www.reddit.com/r/emacs.rss][Emacs Reddit]]
+*** [[https:planet.emacslife.com/atom.xml][Planet Emacs]]
+*** [[https://hnrss.org/frontpage][Hackernews]]
+*** [[https://lukesmith.xyz/index.xml][Luke Smith]]
+** Law :law:
+*** [[https://www.innertemplelibrary.com/feed/][Inner Temple Daily Digest]]
+*** [[https://www.innertemplelibrary.com/category/trusts/feed/][Inner Temple Trusts News]]
+** News :news:
+*** [[https://www.reddit.com/r/ukpolitics.rss][Uk Politics Reddit]]
+*** [[https://stallman.org/rss/rss.xml][Richard Stallman News]]
+** Sport :sport:
+*** [[https://www.reddit.com/r/cricket.rss][Cricket Reddit]]

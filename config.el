@@ -74,3 +74,9 @@
 ;;
 ;; You can also try 'gd' (or 'C-c c d') to jump to their definition and see how
 ;; they are implemented.
+;;
+;; Location of rss feed list
+(setq rmh-elfeed-org-files (list "~/.doom.d/elfeed.org"))
+;;
+;; change default browser
+(setq browse-url-browser-function 'browse-url-firefox)
