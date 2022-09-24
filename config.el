@@ -80,3 +80,6 @@
 ;;
 ;; change default browser
 (setq browse-url-browser-function 'browse-url-firefox)
+
+; org dispatch
+(setq org-latex-pdf-process '("latexmk -pdf %f"))

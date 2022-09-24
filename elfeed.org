@@ -7,11 +7,18 @@
 *** [[https:planet.emacslife.com/atom.xml][Planet Emacs]]
 *** [[https://hnrss.org/frontpage][Hackernews]]
 *** [[https://lukesmith.xyz/index.xml][Luke Smith]]
+*** [[https://distrowatch.com/news/dw.xml][Distrowatch]]
 ** Law :law:
 *** [[https://www.innertemplelibrary.com/feed/][Inner Temple Daily Digest]]
 *** [[https://www.innertemplelibrary.com/category/trusts/feed/][Inner Temple Trusts News]]
 ** News :news:
 *** [[https://www.reddit.com/r/ukpolitics.rss][Uk Politics Reddit]]
+*** [[https://feeds.bbci.co.uk/news/politics/rss.xml][BBC Politics]]
 *** [[https://stallman.org/rss/rss.xml][Richard Stallman News]]
 ** Sport :sport:
+*** [[https://newsrss.bbc.co.uk/rss/sportonline_uk_edition/front_page/rss.xml][BBC Sport]]
 *** [[https://www.reddit.com/r/cricket.rss][Cricket Reddit]]
+*** [[http://arseblog.com/feed/][Arseblog]]
+** Music :music:
+*** [[https://pitchfork.com/feed/feed-news/rss][Pitchfork News]]
+*** [[https://pitchfork.com/feed/feed-album-reviews/rss][Pitchfork Reviews]]
