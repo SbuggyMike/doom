@@ -84,6 +84,8 @@
 ; org dispatch
 (setq org-latex-pdf-process '("latexmk -pdf %f"))
 
+(auto-revert-mode)
+
 ; keybindings
 ;; eshell
 (map! "C-c t" #'eshell)
